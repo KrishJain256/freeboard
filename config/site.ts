@@ -7,7 +7,7 @@ export const siteConfig = {
       "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
     links: {
       twitter: "https://x.com/krishjain256",
-      github: "https://github.com/KrishJain256/leetcodeboard-krishjain",
+      github: "https://github.com/KrishJain256/freeboard",
       linkedin: "https://www.linkedin.com/in/krish-jain-iitk/",
     },
   }
