@@ -37,7 +37,7 @@ export default function Home() {
                       Your Ultimate Whiteboard for Notes and LeetCode Mastery!<br/><br/>
                       Are you looking for a versatile and intuitive whiteboard to boost your productivity and
                       enhance your coding skills?<br/> FreeBoard is here to transform your note-taking and
-                      problem-solving experience. Whether you're preparing for coding interviews or
+                      problem-solving experience. Whether you&apos;re preparing for coding interviews or
                       brainstorming
                       ideas, FreeBoard provides the perfect canvas for all your needs.</p>
                   </div>
