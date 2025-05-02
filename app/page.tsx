@@ -7,7 +7,7 @@ export default function Home() {
           className="relative flex min-h-screen flex-col justify-center overflow-hidden bg-gray-50 py-6 sm:py-12">
           <div
               className="bg-cover bg-center absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 light:hidden ">
-              <img src="https://tailwindcss.com/_next/static/media/hero-dark@90.dba36cdf.jpg" alt=""
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSATqLaXIkBHA1JsexvsLjAzJflxjnyblkwfA&s" alt=""
                    className="absolute top-1/2 left-1/2 max-w-none -translate-x-1/2 -translate-y-1/2 light:hidden bg-cover"
                    width="1920"/>
           </div>
